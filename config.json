@@ -1,0 +1,6 @@
+{
+    "license_key":"",
+    "delay":2000,
+    "monitor_delay":2000,
+    "retry_amount":50
+}

@@ -1,0 +1,24 @@
+{
+    "userAgents": [
+        {
+            "name":"chrome101",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36",
+            "sec_ch_ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=101\", \"Google Chrome\";v=\"101\"",
+            "sec_ch_ua_platform": "\"Windows\""
+        },
+        {
+            "name":"chrome104",
+            "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+            "sec_ch_ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+            "sec_ch_ua_platform":"\"Windows\""
+        },
+        {
+            "name":"chrome105",
+            "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "sec_ch_ua": "\"Chromium\";v=\"105\", \" Not A;Brand\";v=\"8\", \"Google Chrome\";v=\"105\"",
+            "sec_ch_ua_platform":"\"Windows\""
+        }
+    ]
+        
+    
+}
