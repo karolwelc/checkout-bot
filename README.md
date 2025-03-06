@@ -20,8 +20,8 @@ This is a high-performance checkout bot for Zalando and ASOS, written in Golang.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/zalando-asos-bot.git
-cd zalando-asos-bot
+git clone https://github.com/karolwelc/checkout-bot.git
+cd checkout-bot
 ```
 
 ### Install Dependencies
